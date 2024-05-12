@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Jane Up",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "phone": "9876543210",
+      "website": "example.org"
+    },
+    {
+      "id": "4",
+      "name": "Emily Brown",
+      "username": "emilybrown",
+      "email": "emilybrown@example.com",
+      "phone": "2468013579",
+      "website": "example.edu"
+    },
+    {
+      "id": "5",
+      "name": "David Lee",
+      "username": "davidlee",
+      "email": "davidlee@example.com",
+      "phone": "3216549870",
+      "website": "example.gov"
+    },
+    {
+      "id": "6",
+      "name": "Jennifer Kim",
+      "username": "jenniferkim",
+      "email": "jenniferkim@example.com",
+      "phone": "7891234560",
+      "website": "example.biz"
+    },
+    {
+      "id": "8",
+      "name": "Amanda Nguyen",
+      "username": "amandanguyen",
+      "email": "amandanguyen@example.com",
+      "phone": "9876541230",
+      "website": "example.co"
+    },
+    {
+      "id": "9",
+      "name": "Matthew Garcia",
+      "username": "matthewgarcia",
+      "email": "matthewgarcia@example.com",
+      "phone": "4567891230",
+      "website": "example.tv"
+    },
+    {
+      "id": "10",
+      "name": "Jessica Rodriguez",
+      "username": "jessicarodriguez",
+      "email": "jessicarodriguez@example.com",
+      "phone": "9876543210",
+      "website": "example.me"
+    }
+  ]
+}
